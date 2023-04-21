@@ -1,5 +1,6 @@
 str = "This Is Example String"
 str2 = "Ruby"
+
 # str.each_byte do |char|
 #   puts char
 # end
